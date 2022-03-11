@@ -1,7 +1,3 @@
-'''12. Write a function that finds the sum of the 
-a) first n odd terms 
-b) first n even terms
-c) 1, 2, 4, 3, 5, 7, 9, 6, 8, 10, 11, 13.. till n-th term.'''
 m = int(input("Enter the number: "))
 sum=0
 i=1
