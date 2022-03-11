@@ -1,3 +1,4 @@
+#(A)
 m = int(input("Enter the number: "))
 sum=0
 i=1
